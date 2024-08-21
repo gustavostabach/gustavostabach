@@ -1,7 +1,7 @@
 ### boas vindas ao meu perfil
  
  
-**gustavostabach/gustavostabach** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
+**gustavostabach/gustavostabach**é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
 Você pode clicar no link Visualizar para ver suas alterações.
 ---> 
  
@@ -12,7 +12,3 @@ Você pode clicar no link Visualizar para ver suas alterações.
 - 📫 para chegar até mim é só me procurar em Pavão Lapa pr.
 - 😄 Pronomes:São eles/deles.
 - ⚡Curiosidade:jogo fifa
-
-**gustavostabach/gustavostabach** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
-Você pode clicar no link Visualizar para ver suas alterações.
---->
